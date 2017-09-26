@@ -1,0 +1,8 @@
+R language (dplyr, jsonlite, httr, ggplot2)
+descriptive and inferential statistics
+Hadoop (Kafka, Spark, Storm, Hive, HDFS). TensorFlow, Caffe
+Cassandra, Redis, Elasticsearch.
+Python (HTTP - Flask/Tornado; Scientific, stdlib).
+Lucene/Solr/Elasticsearch.
+Logistic Regression, SVM, kMeans, Random Forest, xgboost
+python  keras (для DL), skimage/PIL (для работы с картинками), matplotlib (для визуализации), ну и без numpy/scipy
